@@ -112,8 +112,6 @@ StudyMate-AI/
 ├── performance_analyzer.py
 ├── validation.py
 │
-├── studymate.db
-│
 ├── tests/
 │   ├── test_planner.py
 │   ├── test_analyzer.py
